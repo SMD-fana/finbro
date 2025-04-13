@@ -1,5 +1,3 @@
-# finbro
-
 # 🚀 FinRobot: Revolutionizing Finance with AI
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AI4Finance-Foundation/FinRobot)
