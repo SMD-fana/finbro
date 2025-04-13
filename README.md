@@ -76,6 +76,7 @@ FinRobot is designed to solve real-world problems in the finance industry, such 
 └── README.md             # Project overview
 
 
+```
 # AI as a Transformative Indicator in Stock Market Analysis: Techniques and Applications  
 
 The integration of artificial intelligence (AI) into stock market analysis has redefined traditional financial indicators, enabling predictive capabilities that combine technical, fundamental, and sentiment-driven insights. By processing vast datasets and identifying non-linear patterns, AI serves as a dynamic indicator system that enhances decision-making accuracy, risk management, and strategic foresight. This report examines the multifaceted role of AI in stock market prediction, focusing on its evolution from a supplementary tool to a core analytical framework.  
