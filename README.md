@@ -5,7 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AI4Finance-Foundation/FinRobot)
 [![License](https://img.shields.io/github/license/AI4Finance-Foundation/FinRobot)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing)
-[![GitHub Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot)](https://github.com/AI4Finance-Foundation/FinRobot/stargazers)
+
 
 FinRobot is a cutting-edge open-source project aimed at integrating Artificial Intelligence (AI) into the financial domain. From personalized financial planning to AI-driven fraud detection, FinRobot empowers users to leverage AI for smarter, more efficient financial decision-making.
 
