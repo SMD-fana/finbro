@@ -489,11 +489,5 @@ Once this runs cleanly:
 
 ---
 
-## Want to Collaborate?
-If you'd like, I can help you:
-- Write the notebook version of this
-- Implement a proper sentiment API pipeline
-- Guide you through adding a UI
 
-Let me know where you'd like to go deeper: 📊 more modeling, 🧠 better NLP, or 📈 real-time deployment?
 
